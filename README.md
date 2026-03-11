@@ -40,15 +40,15 @@ Students seeking help with concepts or coursework should plan to attend office h
 | Thursday    | 12:00 PM - 3:00 PM  | Alex           | DSI 313       |
 | ________    | __:00 __ - __:00 __ | Jiawei         | _______       |
 
-**Office hours begin on October 1 and end on December 6.**
+**Office hours begin on March 24 and end on May 12.**
 
-Due to conference travel, **Alex will be unavailable October 13 - 18**.
+Due to conference travel, **Alex will be unavailable April 11--17**.
 
 ### Materials, turn-in, and gradebook
 
 All course materials can be found in the course GitHub repo (this page).
 
-Student work will be turned in via [Gradescope](__), where students will be able to view grades and feedback on coursework.
+Student work will be turned in via [Gradescope](https://www.gradescope.com/courses/1278329), where students will be able to view grades and feedback on coursework.
 
 
 
