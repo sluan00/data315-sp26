@@ -37,8 +37,8 @@ Students seeking help with concepts or coursework should plan to attend office h
 
 | Day of week | Time of day         | Person hosting | Where         |
 | :---------- | :-----------------  | :------------- | :------------ |
+| Tuesday     | 12:00 PM - 3:00 PM  | Alex           | DSI 313       |
 | Wednesday   | 01:00 PM - 04:00 PM | Jiawei         | DSI 112       |
-| Thursday    | 12:00 PM - 3:00 PM  | Alex           | DSI 313       |
 
 
 **Office hours begin on March 24 and end on May 12.**
