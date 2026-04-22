@@ -71,6 +71,7 @@
       .attr("r", 3);
   }
 
+  // Students should focus on making edits to this function.
   function update() {
     clearChart(); // shouldn't do this for an animated transition
 
